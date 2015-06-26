@@ -20,4 +20,4 @@ Move the bot with these keyboard keys:
 
 <strong>E</strong>  - move down on Z axis;
 
-When you are right above a cell press the <strong>space bar</strong> in order to release the medicine. If successfully the cell will become of black color.
+When you are right above a cell press the <strong>space bar</strong> in order to release the medicine. If successfully the cell will become black.
