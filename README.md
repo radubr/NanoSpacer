@@ -8,16 +8,16 @@ This is done in the game engine Unity (v5.0.0f4 Personal) as a project for the "
 
 Move the bot with these keyboard keys:
 
-D - move right on X axis;
+<strong>D</strong> - move right on X axis;
 
-A - move left on X axis;
+<strong>A</strong>  - move left on X axis;
 
-S - mode down on Y axis;
+<strong>S</strong>  - mode down on Y axis;
 
-W - move up on Y axis;
+<strong>W</strong>  - move up on Y axis;
 
-Q - move up on Z axis;
+<strong>Q</strong>  - move up on Z axis;
 
-E - move down on Z axis;
+<strong>E</strong>  - move down on Z axis;
 
-When you are right above a cell hit the space bar in order to release the medicine. If successfully the cell will become of black color.
+When you are right above a cell hit the <strong>space bar</strong> in order to release the medicine. If successfully the cell will become of black color.
