@@ -4,9 +4,9 @@ NanoSpacer is a 3D medical visualization of a nanorobot (nanobot) and red blood 
 This is done in the game engine Unity (v5.0.0f4 Personal) as a project for the "Realistic Multimedia and Animation" course.
 
 # How to play
-<strong>Goal:</strong> Collect all the red blood cells with the nanorobot.
+<strong>Goal:</strong> Collect all the red blood cells with the bot.
 
-Move the NanoSpacer with the keyboard keys:
+Move the bot with these keyboard keys:
 
 D - move right on X axis;
 
