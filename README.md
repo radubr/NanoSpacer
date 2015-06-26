@@ -1,5 +1,5 @@
 # NanoSpacer
-NanoSpacer is a 3D medical visualization of a nanorobot (nanobot) and red blood cells from the circulatory system with vessels (arteries, veins) of human body.
+NanoSpacer is a 3D medical visualization of a nanorobot (nanobot) and red blood cells from the circulatory system with vessels (arteries, veins) of a human body.
 
 This is done in the game engine Unity (v5.0.0f4 Personal) as a project for the "Realistic Multimedia and Animation" course.
 
