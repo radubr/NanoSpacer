@@ -1,12 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WeaponController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SplashScreen.cs">
     <Files>
-      <File FileName="Assets\ArmAndPayload.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\TruePlayerOptions.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CameraController.cs" Line="21" Column="1" />
-      <File FileName="Assets\Scripts\WeaponController.cs" Line="56" Column="28" />
-      <File FileName="Assets\Scripts\CapsuleBody.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Laser.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\MedicineInsideOptions.cs" Line="20" Column="13" />
+      <File FileName="Assets\Scripts\NanoBotOptions.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\SplashScreen.cs" Line="11" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

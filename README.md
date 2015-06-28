@@ -1,10 +1,10 @@
 # NanoSpacer
 NanoSpacer is a 3D medical visualization of a nanorobot (nanobot) and red blood cells from the circulatory system with vessels (arteries, veins) of a human body.
 
-This is done in the game engine Unity (v5.0.0f4 Personal) as a project for the "Realistic Multimedia and Animation" course.
+This was done in the game engine Unity (v5.0.0f4 Personal).
 
 # How to play
-<strong>Goal:</strong> Collect all the red blood cells with the bot.
+<strong>Goal:</strong> Save the human by collecting all the red blood cells with the bot. Use the laser beam to guide the bot to the cells and avoid the enemy or else the human dies. When you are right above a cell press the <strong>space bar</strong> in order to release the medicine. If successfully the cell will become black. Cure all the red blood cells and you win the game by saving the human.
 
 Move the bot with these keyboard keys:
 
@@ -12,12 +12,12 @@ Move the bot with these keyboard keys:
 
 <strong>A</strong>  - move left on X axis;
 
-<strong>S</strong>  - mode down on Y axis;
+<strong>S</strong>  - mode left on Z axis;
 
-<strong>W</strong>  - move up on Y axis;
+<strong>W</strong>  - move right on Z axis;
 
-<strong>Q</strong>  - move up on Z axis;
+<strong>Q</strong>  - move up on Y axis;
 
-<strong>E</strong>  - move down on Z axis;
+<strong>E</strong>  - move down on Y axis;
 
-When you are right above a cell press the <strong>space bar</strong> in order to release the medicine. If successfully the cell will become black.
+Mouse scroll wheel to zoom in/out;

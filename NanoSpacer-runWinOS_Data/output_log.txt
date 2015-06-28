@@ -1,0 +1,30 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\NanoSpacer\NanoSpacer-runWinOS_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: f70 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.411732 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 241.
+Total: 0.386820 ms (FindLiveObjects: 0.052726 ms CreateObjectMapping: 0.033595 ms MarkObjects: 0.271567 ms  DeleteObjects: 0.018197 ms)
+
